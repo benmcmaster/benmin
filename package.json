@@ -1,0 +1,9 @@
+{
+  "name": "benmin",
+  "version": "1.0.0",
+  "description": "My Portfolio",
+  "main": "index.js",
+  "repository": "git+https://github.com/benmcmaster/benmin.git",
+  "author": "Ben McMaster",
+  "license": "MIT"
+}
